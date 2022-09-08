@@ -1,6 +1,6 @@
-Hi, my name is Emily and I am a Biology student at Wheaton College MA. I am passionate about environmental conservation and I am planning to pursue a PhD in Ecology!
+Hi, my name is Emily and I am a Master's student at New Mexico State University. I am passionate about environmental conservation and I am planning to pursue a PhD in Ecology!
 
-- 🌱 Currently learning R Studio
+- 🌱 Currently learning genomic analysis techniques in Linux
 - :tulip: Interested in utilizing R to display and analyze ecosystem data 
 
 
