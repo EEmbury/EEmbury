@@ -1,6 +1,6 @@
-Hi, my name is Emily and I am a Master's student at New Mexico State University. I am passionate about environmental conservation and I am planning to pursue a PhD in Ecology!
+Hi, my name is Emily and I am a Master's student at New Mexico State University. I am passionate about environmental conservation and microbes!
 
-- 🌱 Currently learning genomic analysis techniques in Linux
+- 🌱 Currently learning Python
 - :tulip: Interested in utilizing R to display and analyze ecosystem data 
 
 
